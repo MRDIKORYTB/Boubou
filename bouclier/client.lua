@@ -1,3 +1,5 @@
+ESX                     = nil
+
 local shieldActive = false
 local shieldEntity = nil
 local hadPistol = false
